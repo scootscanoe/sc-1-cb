@@ -1,0 +1,10 @@
+# minecraft worlds #
+####################
+*.jar
+*.txt
+*.yml
+*.log
+*.properties
+*.txt
+lib
+plugins
